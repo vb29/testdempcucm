@@ -1,0 +1,58 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Verification of Reset button",
+        "description": "",
+        "id": "reset-functionality-on-login-page-of-application;verification-of-reset-button",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4123212100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Open the Firefox and launch the application",
+            "match": {
+              "location": "Steps.open_the_Firefox_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11737221100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Enter the Username and Password",
+            "match": {
+              "location": "Steps.enter_the_Username_and_Password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 167600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Reset the credential",
+            "match": {
+              "location": "Steps.reset_the_credential()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Reset functionality on login page of Application",
+    "description": "",
+    "id": "reset-functionality-on-login-page-of-application",
+    "keyword": "Feature",
+    "uri": "src/test/java/cucumber/feature/login.feature"
+  }
+]
