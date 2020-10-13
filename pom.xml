@@ -31,7 +31,7 @@
 		<testng.version>7.1.0</testng.version> <!-- 6.9.8 -->
 
 		<!-- JUnit -->
-		<junit.version>4.11</junit.version> <!-- 6.9.8 -->
+		<junit.version>4.13.1</junit.version> <!-- 6.9.8 -->
 
 		<!-- Cucumber -->
 		<cucumber-testng>1.2.5</cucumber-testng>
