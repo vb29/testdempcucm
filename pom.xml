@@ -65,7 +65,7 @@
 		<com.google.guava>23.0</com.google.guava>
 		<jcommon.version>1.0.24</jcommon.version>
 		<joda.time.version>2.9.9</joda.time.version>
-		<commons-io.version>2.6</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<commons-configuration.version>1.10</commons-configuration.version>
 		<slf4j-api.version>1.7.25</slf4j-api.version>
 		<slf4j-jdk14.version>1.7.25</slf4j-jdk14.version>
