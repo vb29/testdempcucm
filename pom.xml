@@ -22,7 +22,7 @@
 		<selenium.firefox.version>3.141.59</selenium.firefox.version>
 		<selenium.chrome.version>3.141.59</selenium.chrome.version>
 		<selenium.support.version>3.141.59</selenium.support.version>
-		<httpclient.version>4.5.8</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 
 		<!-- Appium -->
 		<appium.version>7.3.0</appium.version>
