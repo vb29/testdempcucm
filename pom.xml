@@ -47,7 +47,7 @@
 		<masterthought-cucumber-reporting>0.0.20</masterthought-cucumber-reporting>
 
 		<!-- Excel -->
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<poi-ooxml.version>3.17</poi-ooxml.version>
 		<poi-ooxml-schemas.version>3.17</poi-ooxml-schemas.version>
 		<dom4j.version>1.6.1</dom4j.version>
